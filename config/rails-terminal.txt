@@ -1,0 +1,13 @@
+
+-- rails version
+% rails -v
+Rails 7.1.3.4
+
+-- rails start
+% rails s
+-- rails stop
+(rails起動中) ^c
+
+-- bundler version
+% bundler -v
+Bundler version 2.5.11
