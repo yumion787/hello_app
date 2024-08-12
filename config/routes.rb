@@ -8,6 +8,7 @@ Rails.application.routes.draw do
   # Defines the root path route ("/")
   # root "posts#index"
   # app/controllers/applicationController.rb のアクジョンを使うようにrailsに指示
-  root "application#goodbye"
+  root "application#hello"
+  # root "application#goodbye"
 
 end
